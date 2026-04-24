@@ -108,6 +108,6 @@ These assignments demonstrate practical implementation of Jenkins in DevOps, cov
 
 ## 👩‍💻 Author
 
-Shruti
+Shruti Jadhav
 
 ---
